@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.researchpark.illinois.edu	TRUE	/	FALSE	1999999999	__cf_bm	LXzmdp7rukUL69f0wA73ESD2IOY8Kpx9UqZiDrBRenE-1750525063-1.0.1.1-Cw_YxAPBfQqlNxdzEKKG.oMz7XG.GveaJDQw1wKjdAFZRGpxjTswlvJyt7fvTTBg4h5B.bAL.aL44Uo9SG8RrdMLaPrY8Ydfj4Xp9iPwnFk
+researchpark.illinois.edu	TRUE	/	FALSE	1999999999	SameSite	None
+

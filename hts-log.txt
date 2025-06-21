@@ -1,0 +1,92 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 21 Jun 2025 11:52:42 at https://researchpark.illinois.edu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://researchpark.illinois.edu/ -O1 "D:\UIUC_Research_Park" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:53:30	Error: 	"Bad Request" (400) at link https://researchpark.illinois.edu/wp-admin/admin-ajax.php (from https://researchpark.illinois.edu/)
+11:54:11	Error: 	"Forbidden" (403) at link https://researchpark.illinois.edu/xmlrpc.php?rsd (from https://researchpark.illinois.edu/)
+11:57:40	Error: 	Exit requested by shell or user
+11:57:40	Warning: 	File not added due to mirror cancel: https://researchpark.illinois.edu/wp-content/uploads/2024/06/Graduate-border_InstaRecon.png
+11:57:40	Warning: 	File not added due to mirror cancel: https://researchpark.illinois.edu/wp-content/uploads/2024/06/Graduate-border_InstaRecon.png
+11:57:40	Warning: 	File not added due to mirror cancel: https://researchpark.illinois.edu/wp-content/uploads/2024/06/Graduate-border_InstaRecon.png
+11:57:40	Warning: 	File not added due to mirror cancel: https://researchpark.illinois.edu/wp-content/uploads/2024/06/Graduate-border_InstaRecon.png
+11:57:44	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/?page_id=31238 (from https://researchpark.illinois.edu/)
+11:57:46	Error: 	"Forbidden" (403) at link https://researchpark.illinois.edu/boston-bioprocess-moore-prize/?preview_id=35206&preview_nonce=ce8f3bf8cb&preview=true (from https://researchpark.illinois.edu/)
+11:57:49	Warning: 	Moved Permanently for https://researchpark.illinois.edu/fast-center-at-illinois-sbir-resources/
+11:57:49	Warning: 	File has moved from https://researchpark.illinois.edu/fast-center-at-illinois-sbir-resources/ to https://researchpark.illinois.edu/illinois-fast-center/
+11:57:50	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/vimeo-play.png (from https://researchpark.illinois.edu/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1026)
+11:57:50	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/video-play.png (from https://researchpark.illinois.edu/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1026)
+11:57:50	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/img/youtube-play.png (from https://researchpark.illinois.edu/wp-content/plugins/royal-elementor-addons/assets/css/lib/lightgallery/lightgallery.min.css?ver=1.7.1026)
+11:57:50	Warning: 	File not added due to mirror cancel: https://cdn.brand.illinois.edu/robots.txt
+11:57:51	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=8241
+11:57:51	Warning: 	File has moved from https://researchpark.illinois.edu/?p=8241 to https://researchpark.illinois.edu/about-us/
+11:57:51	Warning: 	Moved Permanently for https://researchpark.illinois.edu/about/about-us/
+11:57:51	Warning: 	File has moved from https://researchpark.illinois.edu/about/about-us/ to https://researchpark.illinois.edu/about-us/
+11:57:51	Warning: 	Moved Permanently for https://researchpark.illinois.edu/locate-here/enterpriseworks-incubator/
+11:57:51	Warning: 	File has moved from https://researchpark.illinois.edu/locate-here/enterpriseworks-incubator/ to https://researchpark.illinois.edu/locate-here/enterpriseworks-incubator-1/
+11:57:51	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=299
+11:57:51	Warning: 	File has moved from https://researchpark.illinois.edu/?p=299 to https://researchpark.illinois.edu/about/getting-here/
+11:57:51	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/?page_id=139 (from https://researchpark.illinois.edu/about/getting-here/)
+11:57:51	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/about/amenities/buses/ (from https://researchpark.illinois.edu/about/getting-here/)
+11:57:51	Warning: 	Moved Permanently for https://researchpark.illinois.edu/about/amenities/bikes/
+11:57:51	Warning: 	File has moved from https://researchpark.illinois.edu/about/amenities/bikes/ to https://researchpark.illinois.edu/about/amenities/bike
+11:57:52	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=4709
+11:57:52	Warning: 	File has moved from https://researchpark.illinois.edu/?p=4709 to https://researchpark.illinois.edu/about/board-of-managers/
+11:57:52	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=31653
+11:57:52	Warning: 	File has moved from https://researchpark.illinois.edu/?p=31653 to https://researchpark.illinois.edu/our-team/
+11:57:57	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=31225
+11:57:57	Warning: 	File has moved from https://researchpark.illinois.edu/?p=31225 to https://researchpark.illinois.edu/about-us/history-awards/
+11:57:57	Warning: 	Moved Permanently for https://researchpark.illinois.edu/staff/laura-frerichs/
+11:57:57	Warning: 	File has moved from https://researchpark.illinois.edu/staff/laura-frerichs/ to https://researchpark.illinois.edu/laura-frerichs-receives-chancellors-academic-professional-excellence-award/
+11:57:57	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/news/aurp-honors-research-park-university-illinois-urbana-champaign-2011-outstanding-research-park (from https://researchpark.illinois.edu/about-us/history-awards/)
+11:57:57	Warning: 	Moved Permanently for https://researchpark.illinois.edu/article/fourth-street-extension-opens-opportunities-for-research-park-expansion/
+11:57:57	Warning: 	File has moved from https://researchpark.illinois.edu/article/fourth-street-extension-opens-opportunities-for-research-park-expansion/ to https://researchpark.illinois.edu/fourth-street-extension-opens-opportunities-for-research-park-expansion/
+11:57:57	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/image-gallery/agriculture-technology-innovation-summit-2016/ (from https://researchpark.illinois.edu/about-us/history-awards/)
+11:57:57	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/article/uirp-updates-master-plan-to-direct-future-development/ (from https://researchpark.illinois.edu/about-us/history-awards/)
+11:57:57	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/article/board-of-trustees-votes-to-transfer-research-park-oversight/ (from https://researchpark.illinois.edu/about-us/history-awards/)
+11:57:57	Warning: 	Moved Permanently for https://researchpark.illinois.edu/locate-here/now-leasing/
+11:57:57	Warning: 	File has moved from https://researchpark.illinois.edu/locate-here/now-leasing/ to https://researchpark.illinois.edu/now-leasing/
+11:57:57	Warning: 	Moved Permanently for https://researchpark.illinois.edu/article/greenhouse-groundbreaking-at-the-university-of-illinois-research-park/
+11:57:57	Warning: 	File has moved from https://researchpark.illinois.edu/article/greenhouse-groundbreaking-at-the-university-of-illinois-research-park/ to https://researchpark.illinois.edu/greenhouse-groundbreaking-at-the-university-of-illinois-research-park/
+11:57:58	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=31462
+11:57:58	Warning: 	File has moved from https://researchpark.illinois.edu/?p=31462 to https://researchpark.illinois.edu/now-leasing/
+11:57:58	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=25752
+11:57:58	Warning: 	File has moved from https://researchpark.illinois.edu/?p=25752 to https://researchpark.illinois.edu/locate-here/infill-development-opportunities-at-research-park/
+11:57:58	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=31449
+11:57:58	Warning: 	File has moved from https://researchpark.illinois.edu/?p=31449 to https://researchpark.illinois.edu/locate-here/enterpriseworks-incubator-1/
+11:57:59	Warning: 	Moved Permanently for https://researchpark.illinois.edu/calendar/
+11:57:59	Warning: 	File has moved from https://researchpark.illinois.edu/calendar/ to https://researchpark.illinois.edu/all-events/calendar/
+11:58:06	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/connect-with-us/ (from https://researchpark.illinois.edu/locate-here/enterpriseworks-incubator-1/)
+11:58:06	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=36794
+11:58:06	Warning: 	File has moved from https://researchpark.illinois.edu/?p=36794 to https://researchpark.illinois.edu/locate-here/housing/
+11:58:06	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=284
+11:58:06	Warning: 	File has moved from https://researchpark.illinois.edu/?p=284 to https://researchpark.illinois.edu/about/amenities/
+11:58:07	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/about/amenities/i-hotel-and-conference-center/ (from https://researchpark.illinois.edu/about/amenities/)
+11:58:10	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=7632
+11:58:10	Warning: 	File has moved from https://researchpark.illinois.edu/?p=7632 to https://researchpark.illinois.edu/locate-here/corporate-innovation/
+11:58:10	Warning: 	Moved Permanently for https://researchpark.illinois.edu/resource/broader-tech-community/
+11:58:10	Warning: 	File has moved from https://researchpark.illinois.edu/resource/broader-tech-community/ to https://researchpark.illinois.edu/broader-tech-community/
+11:58:10	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=204
+11:58:10	Warning: 	File has moved from https://researchpark.illinois.edu/?p=204 to https://researchpark.illinois.edu/locate-here/developer-partnership/
+11:58:10	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=19648
+11:58:10	Warning: 	File has moved from https://researchpark.illinois.edu/?p=19648 to https://researchpark.illinois.edu/impact/startup-highlights/
+11:58:11	Warning: 	Moved Permanently for https://researchpark.illinois.edu/tenant_directory/reconstruct/
+11:58:11	Warning: 	File has moved from https://researchpark.illinois.edu/tenant_directory/reconstruct/ to https://researchpark.illinois.edu/reconstruct/
+11:58:11	Warning: 	Moved Permanently for https://researchpark.illinois.edu/tenant_directory/lifefoundry/
+11:58:11	Warning: 	File has moved from https://researchpark.illinois.edu/tenant_directory/lifefoundry/ to https://researchpark.illinois.edu/impact/startup-graduates/lifefoundry/
+11:58:11	Error: 	"Not Found" (404) at link https://researchpark.illinois.edu/all-events/agtech-summit-mock/agtech-summit-edwin-moore/ (from https://researchpark.illinois.edu/impact/startup-highlights/)
+11:58:11	Warning: 	Moved Permanently for https://researchpark.illinois.edu/telltail/
+11:58:11	Warning: 	File has moved from https://researchpark.illinois.edu/telltail/ to https://researchpark.illinois.edu/impact/startup-graduates/telltail/
+11:58:12	Warning: 	Moved Permanently for https://researchpark.illinois.edu/simbiosys/
+11:58:12	Warning: 	File has moved from https://researchpark.illinois.edu/simbiosys/ to https://researchpark.illinois.edu/impact/startup-graduates/simbiosys/
+11:58:12	Warning: 	Moved Permanently for https://researchpark.illinois.edu/?p=14704
+11:58:12	Warning: 	File has moved from https://researchpark.illinois.edu/?p=14704 to https://researchpark.illinois.edu/impact/startup-graduates/
+11:58:22	Warning: 	File not added due to mirror cancel: https://researchpark.illinois.edu/impact/startup-graduates/inprentus/
+11:58:22	Error: 	"mirror stopped by user" (-1) at link https://researchpark.illinois.edu/impact/startup-graduates/inprentus/ (from https://researchpark.illinois.edu/impact/startup-graduates/)
+11:58:22	Error: 	"mirror stopped by user" (-1) at link https://researchpark.illinois.edu/wp-content/uploads/2024/06/Graduate-border_InstaRecon.png (from https://researchpark.illinois.edu/impact/startup-graduates/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 40 seconds : 901 links scanned, 853 files written (102942263 bytes overall) [61936059 bytes received at 182164 bytes/sec], 63880703 bytes transferred using HTTP compression in 521 files, ratio 31%, 13.0 requests per connection
+(19 errors, 62 warnings, 0 messages)
